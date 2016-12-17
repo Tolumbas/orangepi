@@ -1,0 +1,23 @@
+{
+  "name": "orangepi",
+  "version": "1.0.0",
+  "description": "Landing page",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tolumbas/orangepi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tolumbas/orangepi/issues"
+  },
+  "homepage": "https://github.com/Tolumbas/orangepi#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
